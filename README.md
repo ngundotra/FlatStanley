@@ -1,7 +1,6 @@
+---
 
 # Welcome! To [Flat Stanley](https://www.flatstanley.com/about) 2017
-
----
 
 ## Our Mission
 
