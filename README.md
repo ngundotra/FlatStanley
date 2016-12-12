@@ -1,2 +1,78 @@
-# FlatStanley
-Flat Stanley project for LGHS Computer Science Club
+
+# Welcome! To [Flat Stanley](https://www.flatstanley.com/about) 2017
+
+---
+
+## Our Mission
+
+To provide friends with a way of exploring new ideas and learning from coding wizards.
+
+## How?
+
+Create a shared collection of python files that we can add to, revise, and delete.
+
+## Why Python?
+
+Python is a versatile language. Python is easy to use, and a very valued language.
+
+It's currently used in powering Google, Youtube, cutting edge [Artificial Intelligence](https://www.tensorflow.org/), and [scientific research](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks).
+
+<br></br>
+
+## Github + Adding to Flat Stanley
+
+Github is the website where people can freely host folders and files.
+Git is the application that allows you to add to your github and other's.
+
+0) To add to this document, you will need both a github account and [git](https://git-scm.com/downloads). And access to terminal, or Window's command prompt.
+
+1) To access these documents, you will have a space to download this project. There are 2 ways to do so:
+
+    a) Click download this repository and download the zip file and unzip it on your computer.
+    
+    b) Use terminal/command prompt. **we will be adding more steps to this in the future**
+    
+2) Make changes! Either add or revise a project, and then submit a pull request.
+
+3) Submit a Pull Request. Here is a short tutorial from [*The Hub Itself*](https://try.github.io/levels/1/challenges/1). Here is a long, but useful [tutorial](https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud/git-branch-to-merge). 
+
+4) Send Elina and Noah an email, and add your name to the "Name Space" below!
+
+We will be adding a troubleshooting document as we go along.
+
+## Add your name to this project!!
+
+Feel free to add your names in the "Name Space" and as you contribute, add a description of what you did by your name.
+
+### Specifics
+
+* We are expecting users to be running **python 3.5**, as it is most commonly supported for popular machine learning / AI libraries
+
+* When sending a pull request, please send an email to either Elina or Noah. See our last CS Club email for more information.
+
+* We are open to suggestions! Please send us emails, texts, pull requests, etc when you have an idea or problem. We are here for both.
+
+---
+
+# Ask For Questions, Advice, and Guidance
+
+We are a community of people with different skill levels. Ask more skilled friends for help in understanding their contributions; ask newer friends if they can use pointers or guidance. 
+
+This project is centered on collaboration. So please join us on this exciting journey. 
+
+Sincerely,
+```
+    Elina and Noah
+    your CS Club presidents
+```
+
+---
+
+# Name Space
+
+```
+Noah Gundotra - [creator] Created flat_stanley.py
+Elina Yon - [creator]
+
+!!! Put Your Name Here !!!
+```
