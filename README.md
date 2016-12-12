@@ -1,4 +1,3 @@
----
 
 # Welcome! To [Flat Stanley](https://www.flatstanley.com/about) 2017
 
@@ -10,13 +9,12 @@ To provide friends with a way of exploring new ideas and learning from coding wi
 
 Create a shared collection of python files that we can add to, revise, and delete.
 
-## Why Python?
+## Why [Python 3.5?](https://www.python.org/downloads/)
 
 Python is a versatile language. Python is easy to use, and a very valued language.
 
 It's currently used in powering Google, Youtube, cutting edge [Artificial Intelligence](https://www.tensorflow.org/), and [scientific research](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks).
 
-<br></br>
 
 ## Github + Adding to Flat Stanley
 
@@ -53,7 +51,14 @@ Feel free to add your names in the "Name Space" and as you contribute, add a des
 
 ---
 
-# Running flat_stanley.ipynb
+# Running flat_stanley.py
+
+You will need to use your terminal. Here are the commands we will need to know:
+```bash
+cd - "change directory" changes the folder being accessed by your command line
+ls - "list" simply lists the items in your folder
+python3 <filename> - runs the file if it can be called by python3
+```
 
 Once you have this repository (fancy name for folder) installed, you can open your command line and type in "cd Desktop/your_folder_name" (capitalization and punctuation matter). This will "change directory" (change your current folder) from  your user directory to your desktop then to your folder on your desktop.
 
@@ -61,8 +66,7 @@ Once there, type "ls" and hit return. It will "list" all the files in that folde
 
 Once you are in the right folder and you see "flat_stanley.py" listed, then you can type "python3 flat_stanley.py" and hit enter.
 
-
-To best view the code in the file, view it on [the github page](https://github.com/ngundotra/FlatStanley).
+To best view the code in the file, view it on [the github page.](https://github.com/ngundotra/FlatStanley)
 
 ---
 
