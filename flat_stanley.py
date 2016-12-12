@@ -1,11 +1,7 @@
 
 # coding: utf-8
-
-# In[1]:
-
 # Created by ngundotra 12-11-16
-# if you are running python 3.x, comment out the following line
-from __future__ import print_function
+# Last modified by ngundotra 12-12-16
 from random import shuffle
 
 def get_best_name_in_history(name, male=False):
@@ -45,11 +41,11 @@ def get_best_name_in_history(name, male=False):
     # so this function declaration ends after this line
 
 get_best_name_in_history("noah", True)
-
+print()
 friends = ['Noah', 'Elina']
-for i, name in enumerate(friends):
+for i in range(len(friends)):
     if i > 0:
-        print ("{name} is awesome".format(iteration=i, name=name))
+        print ("%s is awesome" % friends[i])
     else:
-        print ("{name} sucks a lot".format(iteration=i, name=name))
+        print ("%s sucks a lot" % friends[i])
 
