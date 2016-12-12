@@ -4,6 +4,8 @@
 # In[1]:
 
 # Created by ngundotra 12-11-16
+# if you are running python 3.x, comment out the following line
+from __future__ import print_function
 from random import shuffle
 
 def get_best_name_in_history(name, male=False):
@@ -43,4 +45,11 @@ def get_best_name_in_history(name, male=False):
     # so this function declaration ends after this line
 
 get_best_name_in_history("noah", True)
+
+friends = ['Noah', 'Elina']
+for i, name in enumerate(friends):
+    if i > 0:
+        print ("{name} is awesome".format(iteration=i, name=name))
+    else:
+        print ("{name} sucks a lot".format(iteration=i, name=name))
 
