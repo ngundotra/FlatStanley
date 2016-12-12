@@ -66,7 +66,7 @@ Once there, type "ls" and hit return. It will "list" all the files in that folde
 
 Once you are in the right folder and you see "flat_stanley.py" listed, then you can type "python3 flat_stanley.py" and hit enter.
 
-To best view the code in the file, view it on [the github page.](https://github.com/ngundotra/FlatStanley)
+To best view the code in the file, view it on [the github page.](https://github.com/ngundotra/FlatStanley/blob/master/flat_stanley.py)
 
 ---
 
