@@ -126,3 +126,4 @@ Elina Yon - [creator]
 
 !!! Put Your Name Here !!!
 ```
+Rowan Lindsay - [peasant]  made the gitignore!
