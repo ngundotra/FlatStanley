@@ -54,6 +54,19 @@ Feel free to add your names in the "Name Space" and as you contribute, add a des
 
 ---
 
+# Running flat_stanley.ipynb
+
+Once you have this repository (fancy name for folder) installed, you can open your command line and type in "cd Desktop/your_folder_name" (capitalization and punctuation matter). This will "change directory" (change your current folder) from  your user directory to your desktop then to your folder on your desktop.
+
+Once there, type "ls" and hit return. It will "list" all the files in that folder you are in. If "flat_stanley.py" is not in that list, then it means you have navigated to the wrong folder.
+
+Once you are in the right folder and you see "flat_stanley.py" listed, then you can type "python3 flat_stanley.py" and hit enter.
+
+
+To best view the code in the file, view it on [the github page](https://github.com/ngundotra/FlatStanley).
+
+---
+
 # Ask For Questions, Advice, and Guidance
 
 We are a community of people with different skill levels. Ask more skilled friends for help in understanding their contributions; ask newer friends if they can use pointers or guidance. 
