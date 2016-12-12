@@ -42,7 +42,7 @@ def get_best_name_in_history(name, male=False):
 
 get_best_name_in_history("noah", True)
 print()
-friends = ['Noah', 'Elina']
+friends = ['Noah', 'Elina'] # Add your name here!!!
 for i in range(len(friends)):
     if i > 0:
         print ("%s is awesome" % friends[i])

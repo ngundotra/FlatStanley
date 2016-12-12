@@ -1,5 +1,7 @@
 
-# Welcome! To [Flat Stanley](https://www.flatstanley.com/about) 2017
+# Welcome! To Flat Stanley 2017
+
+*** What is [Flat Stanley?](https://www.flatstanley.com/about)
 
 ## Our Mission
 
@@ -68,7 +70,39 @@ Once you are in the right folder and you see "flat_stanley.py" listed, then you 
 
 To best view the code in the file, view it on [the github page.](https://github.com/ngundotra/FlatStanley/blob/master/flat_stanley.py)
 
+
 ---
+
+# Editing flat_stanley.py
+
+To write python for Flat Stanley, you need to know 2 things:
+
+1 - we are using python 3.5 or newer
+
+2 - Python is an interpreted language, which means it runs top to bottom. To read more, [click here.](https://wiki.python.org/moin/BeginnersGuide/NonProgrammers)
+
+Here are a few applications you can download to help you write and run your own python code:
+    
+    [PyDev](http://www.pydev.org/) which is an add-on to [Eclipse.](https://www.eclipse.org/downloads/)
+
+    [PyCharm CE](https://www.jetbrains.com/pycharm/download/) which is hella annoying to start working with sometimes, but has really helpful tools.
+
+Here are a few online websites you can use:
+
+    [Cloud 9](https://c9.io/) which is great + works with git but idk how.
+
+    [REPL](https://repl.it/) which is also great, but you have to copy and paste your python code in from flat_stanley.
+
+Here is an editor (doesn't have capability of running your code):
+    
+    [Sublime Text](https://www.sublimetext.com/) is great. To run your code, you have to open up your terminal/command line and use *cd* to navigate to where you store your files. If *ls* shows flat_stanley.py is in your folder, then you can type "python3 flat_stanley.py" to run your code.
+
+There's even an app! (but I don't know if allows us to import in our flat_stanley code):
+
+    [Pythonista](http://omz-software.com/pythonista/) is available for iOS and is actually fun, when it's not crashing. Definitely check it out if you have an iPhone, they have lots of interesting examples. We will hopefully be working with some of the same libraries they are using in the future.
+
+
+--- 
 
 # Ask For Questions, Advice, and Guidance
 
