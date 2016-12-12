@@ -11,7 +11,7 @@ Create a shared collection of python files that we can add to, revise, and delet
 
 ## Why [Python 3.5?](https://www.python.org/downloads/)
 
-Python is a versatile language. Python is easy to use, and a very valued language.
+Python is a versatile language. Python is a very valued language and easy to learn [(here's one of many online tutorials)](https://www.codecademy.com/).
 
 It's currently used in powering Google, Youtube, cutting edge [Artificial Intelligence](https://www.tensorflow.org/), and [scientific research](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks).
 
