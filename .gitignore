@@ -1,3 +1,5 @@
+# Currently works for combination of Python and Bluej and Intellij IDE's
+
 ### Python ###
 # Byte-compiled / optimized / DLL files
 __pycache__/
